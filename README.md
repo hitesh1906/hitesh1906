@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hitesh</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35" width="40">, I'm Hitesh</h1>
 
 <div>
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?color=%2317EAFF&lines=I+am+a+Web+Developer.;I+am+an+Android+Developer.;"/>
